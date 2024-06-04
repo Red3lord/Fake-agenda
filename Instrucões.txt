@@ -1,0 +1,4 @@
+SDK= 30
+SDK min= 20
+
+no arquivo main acticity substitua o package e o link do repositório para o link dos Pages do seu repositório
